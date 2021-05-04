@@ -17,8 +17,7 @@
 - psycopg2
 
 ## Database
-- PosgreSQL
-
+- PostgreSQL
 
 ## Giao diện
 - WxPython
