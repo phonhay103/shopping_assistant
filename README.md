@@ -16,6 +16,10 @@
 - Matplotlib
 - psycopg2
 
+## Database
+- PosgreSQL
+
+
 ## Giao diện
 - WxPython
 
